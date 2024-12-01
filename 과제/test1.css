@@ -1,0 +1,25 @@
+body{background-color: gold;}
+h3{background-color:red
+    }
+h1{font-size: 80px; color:green;}
+hr{border: 8px solid rgb(255, 0, 195)}
+span{color: black font-size:30px}
+p{color:blue}
+
+
+.p1{color:red}
+.p2{color:#fa8072}
+.p3{color:mediumspringgreen}
+
+
+
+/* #클래스 슬랙터를 만드는건 .을 찍어주는것으로 시작한다.
+이는 정해진 부분만 꾸며준다. */
+
+/* .p1{color:coral}
+.p2{corlor:brown}
+.p3{color:purple} */
+
+
+/* #id 는 태그를 구별위해서 사용 이 id를 통해서 색상을 구별할수 있게 해준다. */
+
